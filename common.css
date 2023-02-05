@@ -1,0 +1,22 @@
+a{
+    color: white;
+}
+body{
+    background-color: yellowgreen;
+}
+.container{
+    align-items: center;
+}
+button{
+    color: white;
+    border-radius: 15px;
+    font-size: large;
+}
+button:hover{
+    background-color: gray;
+    color: black;
+}
+
+input{
+    padding: 7px;
+}
